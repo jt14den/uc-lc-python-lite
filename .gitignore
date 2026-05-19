@@ -1,0 +1,7 @@
+_output/
+.venv/
+cache/
+.jupyterlite.doit.db
+__pycache__/
+*.py[cod]
+.DS_Store
