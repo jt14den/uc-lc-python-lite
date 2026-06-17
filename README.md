@@ -50,12 +50,3 @@ python -m http.server -d _output 8000   # then open http://localhost:8000
 
 See [MAINTAINING.md](MAINTAINING.md) for how to update the data, change packages, edit the welcome notebook, and troubleshoot the deploy.
 
----
-
-## License
-
-The lesson content this supports is maintained by [The Carpentries][carpentries] under CC BY 4.0. The Chicago Public Library circulation data is public.
-
-[lesson]: https://librarycarpentry.github.io/lc-python-intro/
-[jupyterlite]: https://jupyterlite.readthedocs.io/en/stable/
-[carpentries]: https://carpentries.org/
